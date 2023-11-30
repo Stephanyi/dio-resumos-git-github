@@ -11,7 +11,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versonamento de 
 
 | Aulas | Resumos |
 |-------|---------|
-Gravando Auterações o Repositório local | [Resumos]()
+Gravando Auterações o Repositório local | [Resumo]()
 
 ```
 Git Init
